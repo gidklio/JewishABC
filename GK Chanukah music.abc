@@ -1,3 +1,8 @@
+https://www.abcjs.net/abcjs-editor.html
+http://www.franziskaludwig.de/abctransposer/
+https://docs.google.com/presentation/d/1EudDUF4NI_f3Y-hPj8KITLx8F7_pLK_XMoLGpumtD-k
+http://bit.ly/GK-Chanukah
+
 % https://www.abcjs.net/abcjs-editor.html
 % http://www.franziskaludwig.de/abctransposer/
 % https://docs.google.com/presentation/d/1EudDUF4NI_f3Y-hPj8KITLx8F7_pLK_XMoLGpumtD-k
@@ -505,7 +510,7 @@ L: 1/8
 %
 M: 3/4
 L: 1/4
-"Dm" D3 | "A7" E3 | "Dm" F3 | "A7" E3 | "Dm" A2 A | "A7"FED | "Dm" F3 | "A7" E3 |
+"Dm" D3 | "A7" E3 | "Dm" F3 | "A7" E3 | "Dm" A2 A | "A7"GFE | "Dm" F3 | "A7" E3 |
 "Dm" D3 | "A7" E3 | "Dm" F3 | "Gm" !fermata!G3 | "A7" A3| A,3 | "Dm" D2D | EF"D7"^F |
 |:"Gm" G2 G | B3 | "Dm" A2 A | F2 D | "A7" ^C2C | A,2^C |1 "Dm" D2 E | F2 "D7" ^F :|2 "Dm" D3-|D3|]
 %
@@ -513,7 +518,7 @@ L: 1/4
 %
 M: 2+3/4
 L: 1/4
-"Dm" DD "A7" E3 | "Dm" FF "A7" E3 | "Dm" AA "A7" FED | "Dm" FF "A7" E3 |
+"Dm" DD "A7" E3 | "Dm" FF "A7" E3 | "Dm" AA "A7" GFE | "Dm" FF "A7" E3 |
 "Dm" DD "A7" E3 | "Dm" FF "Gm" !fermata!G3 | "A7" AA  A2A, | "Dm" DD D2"D7"^F |
 |:"Gm" GGG2B | "Dm" AA FED | "A7" ^CC A,2C |1 "Dm" DE FE"D7"D :|2 "Dm" DD D3|]
 %
@@ -521,7 +526,7 @@ L: 1/4
 %
 M: 6/8
 L:1/8
-"Dm" D2 D "A7" E3 | "Dm" F2F "A7" E3 | "Dm" A2A "A7" FED | "Dm" F2F "A7" E3 |
+"Dm" D2 D "A7" E3 | "Dm" F2F "A7" E3 | "Dm" A2A "A7" GFE | "Dm" F2F "A7" E3 |
 "Dm" D2 D "A7" E3 | "Dm" F2 F "Gm" !fermata!G3 | "A7" A2A  A2A, | "Dm" D2D (3DEF "D7"^F |
 |:"Gm" G2GG2B | "Dm" A2A FED | "A7" ^C2C A,2C |1 "Dm" D2 E FE"D7"D :|2 "Dm" D2D D3|]
 %
@@ -652,17 +657,17 @@ C: Samuel E. Goldfarb
 M: 4/4
 L: 1/4
 ("G7"G2 |"C"c)c"G7"dd | "C"(ec2) e | "A7"ggfe | "Dm" d3d | fdfd | fd2 g | "G7" g>f"G7/B"ed  | "C" c2 "C/E"e2 |
-w: In C!
+w: In~C!
 "C"ge"C/E"ge | "C"ge2 e |"A7" ggfe | "Dm"d3 d | fdfd | fd2 f | "G7"g>f ed |"C"c2 || "Ab7"(_A2 |
 K:Dbmaj
 %
 "Db"d)d"Ab7"ee | "Db"(fd2) f | "Bb7"aagf | "Ebm" e3e | gege | ge2 a | "Ab7" a>g"Ab7/C"fe | "Db" d2 "Db/F"f2 |
-w: In D-flat!
+w: In D\-flat!
 "Db"af"Db/F"af | "Db"af2 f |"Bb7" aagf | "Ebm"e3 e | gege | ge2 g | "Ab7"a>g fe |"Db"d2|| ("A7"=A2 |
 K:D
 %
 "D"d)d"A7"ee | "D"(fd2) f | "B7"aagf | "Em" e3e | gege | ge2 a | "A7" a>g"A7/C#"fe | "D" d2 "D/F#"f2 |
-w: In D!
+w: In~D!
 "D"af"D/F#"af | "D"af2 f |"B7" aagf | "Em"e3 e | gege | ge2 g | "A7"a>g fe |"D"d2 || ("Bb7"_B2
 K:Ebmaj
 %
@@ -701,4 +706,7 @@ W:I have a little dreidel. I made it out of clay.
 W:When it's dry and ready, dreidel I shall play.
 W:Oh dreidel, dreidel, dreidel, I made you out of clay.
 W:Oh dreidel, dreidel, dreidel, then dreidel I shall play.
+
+
+
 
