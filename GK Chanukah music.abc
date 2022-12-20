@@ -1,12 +1,7 @@
-https://www.abcjs.net/abcjs-editor.html
-http://www.franziskaludwig.de/abctransposer/
-https://docs.google.com/presentation/d/1EudDUF4NI_f3Y-hPj8KITLx8F7_pLK_XMoLGpumtD-k
-http://bit.ly/GK-Chanukah
-
-% https://www.abcjs.net/abcjs-editor.html
-% http://www.franziskaludwig.de/abctransposer/
-% https://docs.google.com/presentation/d/1EudDUF4NI_f3Y-hPj8KITLx8F7_pLK_XMoLGpumtD-k
-% http://bit.ly/GK-Chanukah
+% https://www.abcjs.net/abcjs-editor.html 
+% http://www.franziskaludwig.de/abctransposer/ 
+% https://docs.google.com/presentation/d/1EudDUF4NI_f3Y-hPj8KITLx8F7_pLK_XMoLGpumtD-k 
+% http://bit.ly/GK-Chanukah 
 I:abc-charset utf-8
 
 
@@ -14,8 +9,8 @@ I:abc-charset utf-8
 
 X: 1
 T: Blessings
-Z: Gideon Klionsky
 C: Liturgy
+Z: Gideon Klionsky
 M: 4/4
 L: 1/4
 %Q: 1/4=100
@@ -71,10 +66,10 @@ W:She’asita la’avoteinu bayamim haheim baz’man hazeh
 
 X: 3
 T: Ma'oz Tzur (classic Ashkenaz)
+C: Mordechai (Ben Yitzhak Halevi?) (words), Middle Ages German (melody)
 Z: Gideon Klionsky
 R:
 K:C
-C: Mordechai (Ben Yitzhak Halevi?) (words), Middle AgesGerman melody
 Q: 1/4=60
 L: 1/4
 M: 4/4
@@ -145,9 +140,9 @@ W:Ki ar'cha hasha'a v'ein keitz limei hayeshu'ach
 W:D'chei admon b'tzel tzalmon, hakem lanu ro'im shiv'a
 
 X: 4
-C:Benedetto Marcello (1686-1739)
-F:https://www.facebook.com/groups/693933870633396/permalink/2511043178922447/
 T: Ma'oz Tzur (Marcello)
+C: Benedetto Marcello (1686-1739)
+F: https://www.facebook.com/groups/693933870633396/permalink/2511043178922447/
 R:choral 
 Z:Gideon Klionsky
 M:C
@@ -206,10 +201,10 @@ W:דְּחֵה אַדְמוֹן בְּצֵל צַלְמוֹן הָקֵם לָנ�
 
 X: 5
 T: Al HaNissim
+C: Dov Frimer
 Z: Gideon Klionsky
 R:
 K: Dmin
-C: Dov Frimer
 Q: 1/4=60
 %
 %
@@ -232,8 +227,8 @@ W:Bayamim haheim baz’man hazeh
 
 X: 6
 T: Chanukah O Chanukah
-Z: Gideon Klionsky
 C: Mordkhe Rivesman (Yiddish lyrics)
+Z: Gideon Klionsky
 M: 2/4
 L: 1/8
 Q: 1/4=144
@@ -299,13 +294,13 @@ W:...הָאִירוּ, הַדְלִיקוּ
 
 X: 7
 T: Hava Narima (See the Conq'ring Hero Comes)
+C: Levin Kipnis (words), G. F. Handel (music)
 Z: Gideon Klionsky
 M: 4/4
 L: 1/4
 %R: march
 Q: 1/4=130
 K: G
-C: Levin Kipnis (words), G. F. Handel (music)
 %
 "G" d2B>c | d2G2 | "D7" (A/B/c/d/) c "G"B | "D"A4 | "G" (B/c/d/e/) dd | g2 d2 | "Am" (c B/A/) "D" A>G | "G"G4 :|
 "G" (B/A/B/c/) BB | "D"A2 "Em"G2 | "Am" (cBAG) | "B"F4 | "Em" (G/F/G/A/) GG | "A"e2 ^c2 | "Bm" d e/d/ "A"^c>d | "D"d2- "D7"d2||
@@ -323,12 +318,12 @@ W:L’rosh ham’natzéi’aḥ, Makkabi gibbor
 
 X: 8
 T: Ner Li
+C: Levin Kipnis (words), Daniel Samburski (music)
 Z: Gideon Klionsky
 M: 2/4
 L: 1/8
 Q: 1/4=80
 K: C
-C: Levin Kipnis (words), Daniel Samburski (music)
 %
 % Instruments and chords:
 I: MIDI=gchordon % play chords
@@ -492,10 +487,9 @@ W: Don't let the light go out!
 
 X: 10
 T: Sevivon, Sov Sov Sov
-Z: Gideon Klionsky
-R:
-K:Dmin
 C: Levin Kipnis
+Z: Gideon Klionsky
+K: Dmin
 %Q: 1/4=60
 %
 %First in two
@@ -553,11 +547,11 @@ W:Chag simcha hu la’am
 
 X: 11
 T: Ocho Kandelikas
+C: Flory Jagoda
 Z: Gideon Klionsky
 M: 4/4
 L: 1/8
 K: Dmin
-C: Flory Jagoda
 Q: 1/4=140
 %
 % Instruments and chords:
@@ -646,11 +640,11 @@ W:Sura...
 
 X: 13
 T: I Have A Little Dreidel
+C: Samuel E. Goldfarb
 Z: Gideon Klionsky
 K: C
 R: I V I, VI ii, ii V I // I, VI ii, V I
 %
-C: Samuel E. Goldfarb
 %Q: 1/4=160
 %
 %
@@ -706,7 +700,6 @@ W:I have a little dreidel. I made it out of clay.
 W:When it's dry and ready, dreidel I shall play.
 W:Oh dreidel, dreidel, dreidel, I made you out of clay.
 W:Oh dreidel, dreidel, dreidel, then dreidel I shall play.
-
 
 
 
